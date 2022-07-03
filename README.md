@@ -22,7 +22,7 @@
   <h6 align="center">
     <p>Required FreeScout version: <strong>1.8.15</strong></p>
     <p><strong>Translations included:</strong>
-    <span class="ar">🇪🇬 Arabic</span> <span class="zh-CN">🇨🇳 Chinese (simp.)</span> <span class="zh-TW">🇨🇳 Chinese (trad.)</span><br/><span class="hr">🇭🇷 Croatian</span> <span class="cz">🇨🇿 Czech</span> <span class="nl">🇳🇱 Dutch</span> <span class="gb">🇬🇧 English</span> <span class="fr">🇫🇷 French</span><br/><span class="de">🇩🇪 German</span> <span class="hi">🇮🇳 Hindi</span> <span class="it">🇮🇹 Italian</span> <span class="ja">🇯🇵 Japanese</span> <span class="pl">🇵🇱 Polish</span><br/><span class="ru">🇷🇺 Russian</span> <span class="sk">🇸🇰 Slovak</span> <span class="es">🇪🇸 Spanish</span> <span class="sv">🇸🇪 Swedish</span></p>
+    <span class="zh-CN">🇨🇳 Chinese (simp.)</span> <br/><span class="hr">🇭🇷 Croatian</span> <span class="cz">🇨🇿 Czech</span> <span class="nl">🇳🇱 Dutch</span> <span class="gb">🇬🇧 English</span> <span class="fr">🇫🇷 French</span><br/><span class="de">🇩🇪 German</span> <span class="hi">🇮🇳 Hindi</span> <span class="it">🇮🇹 Italian</span> <span class="ja">🇯🇵 Japanese</span> <span class="pl">🇵🇱 Polish</span><br/><span class="ru">🇷🇺 Russian</span> <span class="sk">🇸🇰 Slovak</span> <span class="es">🇪🇸 Spanish</span> <span class="sv">🇸🇪 Swedish</span></p>
   </h6>
   <p>
     <hr/>
