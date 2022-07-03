@@ -1,0 +1,25 @@
+{
+    "name": "freescout/fetchseen",
+    "description": "",
+    "authors": [
+        {
+            "name": "FreeScout.shop",
+            "email": "service@freescout.shop"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\FetchSeen\\Providers\\FetchSeenServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\FetchSeen\\": ""
+        }
+    }
+}

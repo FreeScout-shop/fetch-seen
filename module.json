@@ -1,0 +1,23 @@
+{
+    "name": "Fetch Seen",
+    "alias": "fetchseen",
+    "description": "Optionally fetch seen mails from server.",
+    "version": "1.0.0",
+    "detailsUrl": "https://freescout.shop/downloads/freescout-module-fetch-seen/",
+    "author": "FreeScout.shop <service@freescout.shop>",
+    "authorUrl": "https://freescout.shop",
+    "requiredAppVersion": "1.8.13",
+    "license": "AGPL-3.0",
+		"keywords": ["Fetch", "Seen", "Mail", "Mailbox", "Compatibility"],
+		"img": "https://apps.euphoria.group/freescout/fetchseen/icon.png",
+    "active": 0,
+    "order": 0,
+    "providers": [
+        "Modules\\FetchSeen\\Providers\\FetchSeenServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
